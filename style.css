@@ -20,7 +20,7 @@ nav img{
   background-color: darkturquoise;
 }
 .bg-image{
-    background-image: url("About.images/a552d435a70bf70717a2adfd2436bb8e.jpg");
+    background-image: url("a552d435a70bf70717a2adfd2436bb8e.jpg");
   background-repeat: no-repeat;
   background-repeat: repeat-y;
   background-size: cover;
@@ -127,7 +127,7 @@ h4{
   background-color: springgreen;
 }
 .gradient{
-  background-image: url("Gallery.images/99.jpg");
+  background-image: url("99.jpg");
 }
 .yaxye{
   display: flex;
